@@ -1,0 +1,5 @@
+sceneSetups:
+- path: Assets/Main_Sandbox.unity
+  isLoaded: 1
+  isActive: 1
+  isSubScene: 0
